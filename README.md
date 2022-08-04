@@ -15,10 +15,12 @@ git git add origin url_to_your_github_repo
 once thats done, one of you can made few changes in the code :
 - One will work on push for example than the other partner can work on pop
 
-Part 1:
-both the members can then commit whatever changes they made with stack code and push the code to their github repository
+**Part 1**:
 
-Part 2:
+Both the members can then commit whatever changes they made with stack code and push the code to their github repository.
+
+**Part 2**:
+
 Mimic a case where a merge conflict happens and solve them, folowed by pushing the changes back to github.
 
 
