@@ -1,4 +1,4 @@
-# GithubWorkshop
+# GithubWorkshop - Task 1
 
 Make your partner create a repository on github by the name "task1" and add you as a collaborator.
 - Clone this repository to yours as well as your partner's system using git clone in a new folder
