@@ -3,7 +3,7 @@
 Make your partner create a repository on github by the name "task1" and add you as a collaborator.
 - Clone this repository to yours as well as your partner's system using git clone in a new folder
 ```
-git clone https://github.com/tushar4303/GithubWorkshop.git
+git clone https://github.com/tushar4303/task1.git
 ```
 
 Delete the README file since we only need the stack code
