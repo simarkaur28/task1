@@ -21,7 +21,7 @@ Both the members can then commit whatever changes they made with stack code and 
 
 **Part 2**:
 
-Mimic a case where a merge conflict happens and solve them, folowed by pushing the changes back to github.
+Mimic a case where a merge conflict happens and solve it, folowed by pushing the changes back to github.
 
 
 
