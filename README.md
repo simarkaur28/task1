@@ -10,7 +10,7 @@ Delete the README file since we only need the stack code
 Now connect the github repository which you made by using git remote 
 
 ```
-git add origin "paste_url_to_your_github_repo"
+git add origin *paste_url_to_your_github_repo*
 ```
 once thats done, one of you can made few changes in the code :
 - One will work on push for example than the other partner can work on pop
