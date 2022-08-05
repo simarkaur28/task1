@@ -2,7 +2,7 @@
 
 #include<stdlib.h>
  
-#define Size 4 
+#define Size 6 
  
 int Top=-1, inp_array[Size];
 void Push();
