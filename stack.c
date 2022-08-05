@@ -80,3 +80,8 @@ void show()
 			printf("%d\n",inp_array[i]);
 	}
 }
+
+void main ()
+{
+	new code	
+}
