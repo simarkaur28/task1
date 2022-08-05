@@ -80,17 +80,7 @@ void show()
 			printf("%d\n",inp_array[i]);
 	}
 }
-void show()
+void main()
 {
-	
-	
-	if(Top==-1)
-	{
-		printf("\nUnderflow!!");
-	}
-	else
-	{
-		printf("\nElements present in the stack: \n");
-		for(int i=Top;i>=0;--i)
-			printf("%d\n",inp_array[i]);
-	}
+	//Hello 
+}
