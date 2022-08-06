@@ -1,7 +1,5 @@
 #include<stdio.h>
-
-#include<stdlib.h>
- 
+#include<stdlib.h> 
 #define Size 6 
  
 int Top=-1, inp_array[Size];
@@ -30,7 +28,7 @@ int main()
 					break;
 			case 4: exit(0);
 			
-			default: printf("\nInvalid choice!!");
+			default: printf("\nInvalid choice!");
 		}
 	}
 }
@@ -47,7 +45,7 @@ void Push()
 	{
 		printf("\nEnter element to be inserted to the stack:");
 		scanf("%d",&x);
-		Top=Top+1;
+		Top++;
 		inp_array[Top]=x;
 	}
 }
@@ -61,7 +59,7 @@ void Pop()
 	else
 	{
 		printf("\nPopped element:  %d",inp_array[Top]);
-		Top=Top-1;
+		Top--;
 	}
 }
  
@@ -76,7 +74,7 @@ void show()
 	else
 	{
 		printf("\nElements present in the stack: \n");
-		for(int i=Top;i>=0;--i)
+		for(int i=Top; i>=0; --i)
 			printf("%d\n",inp_array[i]);
 	}
 }
