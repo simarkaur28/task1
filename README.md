@@ -1,4 +1,4 @@
-# GithubWorkshop - Task 2 
+# GithubWorkshop - Task 1
 ## Cloning a repository and Creating a pull request for proposing your changes.
 
 1. Fork this repository, into your github account using the fork button present on top right section of this repository
