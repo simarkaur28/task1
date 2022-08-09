@@ -85,3 +85,8 @@ void main ()
 {
 	new code	
 }
+
+void traverse()
+{
+	//add code here
+}
