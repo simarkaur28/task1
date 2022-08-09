@@ -35,7 +35,7 @@ int main()
 	}
 }
  
-/*
+
 void Push()
 {
 	int x;
@@ -52,7 +52,7 @@ void Push()
 		inp_array[Top]=x;
 	}
 }
-*/
+
  
 void Pop()
 {
