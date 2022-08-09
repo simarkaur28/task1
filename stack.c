@@ -85,3 +85,8 @@ void main ()
 {
 	new code	
 }
+
+void change()
+{
+	added a new function
+}
