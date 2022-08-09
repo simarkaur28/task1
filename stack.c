@@ -5,7 +5,7 @@
 #define Size 6 
  
 int Top=-1, inp_array[Size];
-void Push();
+//void Push();
 void Pop();
 void show();
  
@@ -35,6 +35,7 @@ int main()
 	}
 }
  
+
 void Push()
 {
 	int x;
@@ -51,6 +52,7 @@ void Push()
 		inp_array[Top]=x;
 	}
 }
+
  
 void Pop()
 {
