@@ -83,5 +83,6 @@ void show()
 
 void main ()
 {
-	new code	
+	new code
+	printf("\nThis is a menu driven programme");
 }
