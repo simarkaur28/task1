@@ -2,7 +2,7 @@
 
 #include<stdlib.h>
  
-#define Size 4 
+#define Size 6 
  
 int Top=-1, inp_array[Size];
 //void Push();
@@ -81,4 +81,9 @@ void show()
 		for(int i=Top;i>=0;--i)
 			printf("%d\n",inp_array[i]);
 	}
+}
+
+void main ()
+{
+	new code	
 }
