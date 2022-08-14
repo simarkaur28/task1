@@ -2,7 +2,7 @@
 
 #include<stdlib.h>
  
-#define Size 6 
+#define Size 9 
  
 int Top=-1, inp_array[Size];
 void Push();
@@ -83,5 +83,5 @@ void show()
 
 void main ()
 {
-	new code	
+	printf("stack program");
 }
