@@ -2,12 +2,12 @@
 
 #include<stdlib.h>
  
-#define Size 9 
+#define Size 10
  
 int Top=-1, inp_array[Size];
 void Push();
 void Pop();
-void show();
+void Display();
  
 int main()
 {
@@ -16,7 +16,7 @@ int main()
 	while(1)	
 	{
 		printf("\nOperations performed by Stack");
-		printf("\n1.Push the element\n2.Pop the element\n3.Show\n4.End");
+		printf("\n1.Push the element\n2.Pop the element\n3.Display\n4.End");
 		printf("\n\nEnter the choice:");
 		scanf("%d",&choice);
 		
@@ -26,13 +26,14 @@ int main()
 					break;
 			case 2: Pop();
 					break;
-			case 3: show();
+			case 3: Display();
 					break;
 			case 4: exit(0);
 			
 			default: printf("\nInvalid choice!!");
 		}
 	}
+	
 }
  
 void Push()
@@ -65,7 +66,7 @@ void Pop()
 	}
 }
  
-void show()
+void Display()
 {
 	
 	
@@ -84,4 +85,5 @@ void show()
 void main ()
 {
 	printf("stack program");
+
 }
